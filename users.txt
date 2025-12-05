@@ -1,0 +1,7 @@
+# Format: username:password:role
+# Roles: admin, staff, viewer
+admin:admin123:admin
+staff1:staffpass:staff
+viewer1:viewpass:viewer
+usef:12345:admin
+v1:123:viewer

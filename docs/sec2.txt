@@ -1,0 +1,9 @@
+whomi -> currant user 
+id -> id of user
+useradd username -> add user
+adduser username -> add user (intractive)
+passwd username  -> change password 
+deluser username -> remove user
+groups -> list group user
+chmod 775 filename -> change permission 
+ 

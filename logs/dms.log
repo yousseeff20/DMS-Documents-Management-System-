@@ -1,0 +1,45 @@
+2025-12-02 19:53:32 | User:usef | Action:LOGIN | Target:admin | Status:SUCCESS 
+2025-12-02 19:57:47 | User:usef | Action:LOGIN | Target:staff1 | Status:SUCCESS 
+2025-12-02 20:01:13 | User:usef | Action:UPLOAD | Target:/home/usef/Desktop/dms_final/docs/rt.txt | Status:SUCCESS staff1
+2025-12-02 20:28:41 | User:usef | Action:LIST | Target:/home/usef/Desktop/dms_final/docs | Status:SUCCESS usef
+2025-12-02 20:28:55 | User:usef | Action:SEARCH | Target:rt | Status:NOT_FOUND staff1
+2025-12-02 20:29:12 | User:usef | Action:SEARCH | Target:rt.txt | Status:NOT_FOUND staff1
+2025-12-02 20:29:31 | User:usef | Action:DELETE | Target:/home/usef/Desktop/dms_final/docs/rt.txt | Status:SUCCESS staff1
+2025-12-02 20:29:39 | User:usef | Action:LIST | Target:/home/usef/Desktop/dms_final/docs | Status:SUCCESS usef
+2025-12-02 20:31:12 | User:usef | Action:LOGIN | Target:viewer1 | Status:SUCCESS 
+2025-12-02 20:31:31 | User:usef | Action:LIST | Target:/home/usef/Desktop/dms_final/docs | Status:SUCCESS usef
+2025-12-02 20:38:38 | User:usef | Action:SEARCH | Target:s | Status:NOT_FOUND viewer1
+2025-12-02 20:45:38 | User:usef | Action:LOGIN | Target:admin | Status:SUCCESS 
+2025-12-02 20:48:25 | User:usef | Action:UPLOAD | Target:/home/usef/Desktop/dms_final/docs/sec2.txt | Status:SUCCESS admin
+2025-12-02 20:48:35 | User:usef | Action:BACKUP | Target:/home/usef/Desktop/dms_final/backups/dms_backup_20251202_204835.tar.gz | Status:SUCCESS admin
+2025-12-02 20:48:51 | User:usef | Action:DELETE | Target:/home/usef/Desktop/dms_final/docs/sec2.txt | Status:SUCCESS admin
+2025-12-02 20:49:10 | User:usef | Action:RESTORE | Target:dms_backup_20251202_204835.tar.gz | Status:SUCCESS admin
+2025-12-02 20:49:16 | User:usef | Action:LIST | Target:/home/usef/Desktop/dms_final/docs | Status:SUCCESS usef
+2025-12-03 19:03:22 | User:usef | Action:LOGIN | Target:admin | Status:SUCCESS 
+2025-12-03 19:20:41 | User:usef | Action:LOGIN | Target:admin | Status:SUCCESS 
+2025-12-03 19:21:10 | User:usef | Action:LOGIN | Target:admin | Status:SUCCESS 
+2025-12-03 19:22:40 | User:usef | Action:LOGIN | Target:admin | Status:SUCCESS 
+2025-12-03 19:38:34 | User:usef | Action:LOGIN | Target:admin | Status:SUCCESS 
+2025-12-03 19:40:17 | User:usef | Action:SHOW | Target:N/A | Status:N/A 
+2025-12-03 19:46:08 | User:usef | Action:LOGIN | Target:usef | Status:SUCCESS 
+2025-12-03 19:46:52 | User:usef | Action:LOGIN | Target:usef | Status:SUCCESS 
+2025-12-03 19:46:55 | User:usef | Action:LIST | Target:/home/usef/Desktop/dms_final/docs | Status:SUCCESS usef
+2025-12-03 19:47:49 | User:usef | Action:LOGIN | Target:usef | Status:SUCCESS 
+2025-12-03 19:48:31 | User:usef | Action:LOGIN | Target:usef | Status:SUCCESS 
+2025-12-03 19:49:31 | User:usef | Action:LOGIN | Target:usef | Status:SUCCESS 
+2025-12-03 19:49:35 | User:usef | Action:LIST | Target:/home/usef/Desktop/dms_final/docs | Status:SUCCESS usef
+2025-12-03 19:54:04 | User:usef | Action:LOGIN | Target:usef | Status:SUCCESS 
+2025-12-03 19:55:29 | User:usef | Action:UPLOAD | Target:/home/usef/Desktop/dms_final/docs/rt.txt | Status:SUCCESS usef
+2025-12-03 19:55:35 | User:usef | Action:LIST | Target:/home/usef/Desktop/dms_final/docs | Status:SUCCESS usef
+2025-12-03 19:59:53 | User:usef | Action:LOGIN | Target:usef | Status:SUCCESS 
+2025-12-03 20:09:06 | User:usef | Action:LOGIN | Target:usef | Status:SUCCESS 
+2025-12-03 20:14:58 | User:usef | Action:LOGIN | Target:usef | Status:SUCCESS 
+2025-12-03 20:15:04 | User:usef | Action:SEARCH | Target:sec2 | Status:FOUND usef
+2025-12-03 20:58:49 | User:usef | Action:LOGIN | Target:admin | Status:SUCCESS 
+2025-12-03 20:59:32 | User:usef | Action:LOGIN | Target:v1 | Status:SUCCESS 
+2025-12-03 20:59:41 | User:usef | Action:VIEW | Target:/home/usef/Desktop/dms_final/docs/sec2 | Status:FAILED not-found
+2025-12-03 20:59:54 | User:usef | Action:LOGIN | Target:v1 | Status:SUCCESS 
+2025-12-03 20:59:58 | User:usef | Action:LIST | Target:/home/usef/Desktop/dms_final/docs | Status:SUCCESS usef
+2025-12-05 02:02:15 | User:system | Action:LOGIN | Target:usef | Status:SUCCESS 
+2025-12-05 02:02:37 | User:system | Action:SHOW | Target:N/A | Status:N/A 
+2025-12-05 19:23:26 | User:system | Action:LOGIN | Target:usef | Status:SUCCESS 
