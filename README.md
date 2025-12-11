@@ -123,8 +123,5 @@ The system is modular:
 ## 📄 License
 Free to use, modify, and distribute.
 
----
 
-## ✨ Author
-Developed by **Youssef Ashraf & Ziad Ayman**.
 
